@@ -1,7 +1,7 @@
 # rock-paper-scissors game
-#Test Case
+# Test Case
 ```html
-Test Case
+
 dotnet run rock paper scissors
 
 ```

@@ -5,22 +5,23 @@ namespace test.Services
 {
     public class GameRules : IGameRules
     {
-       private readonly List<string> _moves = new List<string>();
+        private readonly List<string> moves;
+
         public GameRules(List<string> moves)
         {
-            this._moves = moves;
+            this.moves = moves;
         }
 
         public string GetWinner(string userMove, string computerMove)
         {
-            int userIndex = _moves.IndexOf(userMove);
-            int computerIndex = _moves.IndexOf(computerMove);
+            int userIndex = moves.IndexOf(userMove);
+            int computerIndex = moves.IndexOf(computerMove);
 
-            if(userIndex == computerIndex)
+            if (userIndex == computerIndex)
             {
-                return "Drow";
+                return "Draw";
             }
-            else if ((userIndex - computerIndex + _moves.Count) % _moves.Count < _moves.Count)
+            else if ((userIndex - computerIndex + moves.Count) % moves.Count == 1)
             {
                 return "User wins";
             }

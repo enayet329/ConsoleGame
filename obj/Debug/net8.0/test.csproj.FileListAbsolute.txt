@@ -1,0 +1,17 @@
+D:\1 Itransition WorkSpace\test\bin\Debug\net8.0\test.exe
+D:\1 Itransition WorkSpace\test\bin\Debug\net8.0\test.deps.json
+D:\1 Itransition WorkSpace\test\bin\Debug\net8.0\test.runtimeconfig.json
+D:\1 Itransition WorkSpace\test\bin\Debug\net8.0\test.dll
+D:\1 Itransition WorkSpace\test\bin\Debug\net8.0\test.pdb
+D:\1 Itransition WorkSpace\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 Itransition WorkSpace\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+D:\1 Itransition WorkSpace\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+D:\1 Itransition WorkSpace\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+D:\1 Itransition WorkSpace\test\obj\Debug\net8.0\test.dll
+D:\1 Itransition WorkSpace\test\obj\Debug\net8.0\refint\test.dll
+D:\1 Itransition WorkSpace\test\obj\Debug\net8.0\test.pdb
+D:\1 Itransition WorkSpace\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+D:\1 Itransition WorkSpace\test\obj\Debug\net8.0\ref\test.dll
+D:\1 Itransition WorkSpace\test\bin\Debug\net8.0\Spectre.Console.dll
+D:\1 Itransition WorkSpace\test\obj\Debug\net8.0\test.csproj.AssemblyReference.cache
+D:\1 Itransition WorkSpace\test\obj\Debug\net8.0\test.csproj.Up2Date

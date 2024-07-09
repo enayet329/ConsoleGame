@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d9CWKNqFSas=",
+  "success": true,
+  "projectFilePath": "D:\\1 Itransition WorkSpace\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdena\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}
